@@ -1,0 +1,16 @@
+1. GOOGLE_MAPS_API_KEY= 'AIzaSyBs8uAbaSKw1Qi6U2dFbnw_tYfhgZp4A0I'
+
+2. static const String mapBoxAccessToken =
+      'pk.eyJ1IjoibXBob2dlb3JnZSIsImEiOiJjbGZzcTdhOTIwOHE5M3FtaHNpdHJyMGZ1In0.9lA_Kx52eQ9NnyJAMQc5PA';
+
+3.static const String mapBoxStyleId = 'clfspz81l00i801p4972zobi5';
+
+  static final myLocation = LatLng(-29.441331568, 27.704830514);
+
+4. https://www.youtube.com/watch?v=5sehqvtIHvg ( Interactive maps using Folium | Python )
+
+5. https://www.youtube.com/watch?v=yHkH882s93w (One Click Convert Web App to Mobile Application )
+
+6. https://www.flaticon.com/packs/navigation-maps?word=navigation ( Navigation icons )
+
+
